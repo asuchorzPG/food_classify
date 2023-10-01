@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyTestApp</string>
+    <string name="kcal_str">Kcal:</string>
+    <string name="protein_str">B:</string>
+    <string name="carb_str">W:</string>
+    <string name="fat_str">T:</string>
+    <string name="none_str">None</string>
+
+</resources>
